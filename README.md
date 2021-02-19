@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![shoyu3's Github stats](https://github-readme-stats.vercel.app/api?username=shoyu3&show_icons=true&bg_color=A0f0b0&theme=gruvbox&hide_border=true)](https://github.com/shoyu3)
+
 <!--
 **shoyu3/shoyu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
